@@ -1,3 +1,5 @@
+//  Ler um valor N. Calcular e escrever seu respectivo fatorial.
+
 function calcFatorial() {
     let inp: number = 0;
     let result: number = inp;
