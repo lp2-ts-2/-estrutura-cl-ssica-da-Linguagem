@@ -1,0 +1,24 @@
+{
+  "name": "estrutura-classica-da-linguagem",
+  "version": "1.0.0",
+  "description": "Desafio 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lp2-ts-2/estrutura-classica-da-linguagem.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lp2-ts-2/estrutura-classica-da-linguagem/issues"
+  },
+  "homepage": "https://github.com/lp2-ts-2/estrutura-classica-da-linguagem#readme",
+  "dependencies": {
+    "@types/node": "^18.7.14",
+    "tsc": "^2.0.4"
+  }
+}
